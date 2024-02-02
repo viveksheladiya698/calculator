@@ -1,0 +1,56 @@
+.calculator {
+    width: 370px;
+    border: 1px solid black;
+    margin: auto;
+    margin-top: 200px;
+}
+
+.screan {
+    border-bottom: 1px solid black;
+}
+.screan input
+{
+    border: none;
+    width: 100%;
+    font-size: 50px;
+    padding: 20px 0px;
+    color: white;
+    background-color: black;
+}    
+.button input {
+    width: 346px;
+    margin: 10px;
+    height: 70px;
+    border-radius: 50%;
+    color: white;
+    background-color: #333333;
+    font-size: 28px;
+    border: none;
+    outline: 0;
+}
+.calculator{
+    background-color: black;
+    border-radius: 10px;
+}
+.fn 
+{
+    background-color: #FE9505 !important;
+}
+.pad 
+{
+    padding: 10px;
+}
+.fn1 
+{
+    background-color: #A5A5A5 !important;
+    color: black !important;;
+}
+
+.layear-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+.button {
+    margin-top: 10px;
+}
